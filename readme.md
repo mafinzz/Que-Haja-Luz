@@ -1,5 +1,7 @@
 <h1 align="center">
+
 <img src="assets/quehajaluz.png">
+
 <p>Catálogo de Produtos </p>
 </h1>
 

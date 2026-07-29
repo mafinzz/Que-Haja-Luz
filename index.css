@@ -32,7 +32,7 @@
 
     /* --- Header --- */
     header {
-      background: linear-gradient(145deg, #000000, #000000);
+      background: linear-gradient(145deg, #0f172a, #1e293b);
       color: white;
       text-align: center;
       padding: 2rem 1rem 1.5rem;
@@ -156,7 +156,6 @@
       align-items: center;
       justify-content: center;
     }
-  
 
     button:hover {
       transform: scale(1.08) translateY(-4px);
